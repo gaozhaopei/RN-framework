@@ -1,3 +1,3 @@
-# blockchainPay
+# RN-framework
 
-区块链支付
+A framework for building RN 
